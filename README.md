@@ -45,10 +45,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
 </div>
 
-###
+### Watch the snake eat my GitHub contributions! 🐍
 
-<br clear="both">
+![Snake animation](https://github.com/Bloodwingv2/Bloodwingv2/blob/output/snake.svg)
 
-<!-- Snake animation -->
-<!-- Replace 'Bloodwingv2' with your GitHub username -->
-<img src="https://raw.githubusercontent.com/Bloodwingv2/Bloodwingv2/output/github-contribution-grid-snake.svg" alt="Snake animation" />
