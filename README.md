@@ -10,7 +10,7 @@
 
 ###
 
-<iframe src="https://giphy.com/embed/EaEWuES5SDSpcnOlRt" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UbisoftCanada-watch-dogs-dedsec-EaEWuES5SDSpcnOlRt">via GIPHY</a></p>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU0cTJtdG5sYzNjanhrMnR6ZHVtaGE5bDduMXlkZjIyZTVhdDJpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.webp" alt="Exciting Animation" width="300" />
 
 ###
 
