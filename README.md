@@ -1,4 +1,4 @@
-# 🚀 Mirang Bhandari
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=80F767&background=73FF8500&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Mirang+Bhandari+%F0%9F%98%81)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me:
 - 🎓 **Recent** Computer Science and Engineering (CSE) graduate from India.
