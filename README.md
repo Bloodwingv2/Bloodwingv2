@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me:
 - 🎓 Currently a Computer Science and Engineering (CSE) graduate from India.
 - 💡 Passionate about learning new technologies and working on exciting projects.
-- 🚀 I'm passionate about diving deeper into DevOps and AI/ML, especially Kubernetes, AWS, and model deployment.
+- 🚀 I'm passionate about diving deeper into **DevOps** and **AI/ML**, especially **Kubernetes**, **AWS**, and **Model Deployment**.
 
 ###
 
