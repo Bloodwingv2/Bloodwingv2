@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me:
 - 🎓 Currently a Computer Science and Engineering (CSE) graduate from India.
 - 💡 Passionate about learning new technologies and working on exciting projects.
-- 🚀 Aspiring to deepen my knowledge in **DevOps** and **AI/ML** by Learning Kubernetes, AWS and Model deployment respectfully.
+- 🚀 I'm passionate about diving deeper into DevOps and AI/ML, especially Kubernetes, AWS, and model deployment.
 
 ###
 
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="CI/CD logo" />
 </div>
 
-🌐 **Connect with Me:**
+###🌐 **Connect with Me:**
 
 <div align="left">
   <a href="mailto:bhandariumesh81@gmail.com" target="_blank">
