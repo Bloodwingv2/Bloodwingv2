@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mirang Bhandari!
 
 ## 👨‍💻 About Me:
-- 🎓 Currently a CSE Fresher from India.
+- 🎓 Currently a Computer Science and Engineering (CSE) graduate from India.
 - 💡 Passionate about learning new technologies and working on exciting projects.
 - 🚀 Aspiring to deepen my knowledge in **DevOps** and **AI/ML** by Learning Kubernetes, AWS and Model deployment respectfully.
 
