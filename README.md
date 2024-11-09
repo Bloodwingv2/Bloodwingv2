@@ -8,7 +8,6 @@
 ###
 
 <div align="center">
-  <!-- Replace 'Bloodwingv2' with your actual GitHub username -->
   <img src="https://github-readme-stats.vercel.app/api?username=Bloodwingv2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="GitHub stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bloodwingv2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="Top languages"  />
 </div>
@@ -20,7 +19,6 @@
 ###
 
 <div align="left">
-  <!-- Update skills based on your preferences -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="Groovy logo" />
