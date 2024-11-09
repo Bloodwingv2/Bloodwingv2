@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="CI/CD logo" />
 </div>
 
-###🌐 **Connect with Me:**
+### 🌐 **Connect with Me**:
 
 <div align="left">
   <a href="mailto:bhandariumesh81@gmail.com" target="_blank">
