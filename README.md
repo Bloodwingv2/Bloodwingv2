@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me:
 - 🎓 Currently a CSE Fresher from India.
 - 💡 Passionate about learning new technologies and working on exciting projects.
-- 🚀 Aspiring to deepen my knowledge in **DevOps** and **AI/ML**.
+- 🚀 Aspiring to deepen my knowledge in **DevOps** and **AI/ML** by Learning Kubernetes, AWS and Model deployment respectfully.
 
 ###
 
