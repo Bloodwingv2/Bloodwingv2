@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Mirang Bhandari, and I'm a CSE Fresher from India, passionate about DevOps and CI/CD</h2>
+# 👋 Hi, I'm Mirang Bhandari!
+
+## 👨‍💻 About Me:
+- 🎓 Currently a CSE Fresher from India.
+- 💡 Passionate about learning new technologies and working on exciting projects.
+- 🚀 Aspiring to deepen my knowledge in **DevOps** and **AI/ML**.
 
 ###
 
