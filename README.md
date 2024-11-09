@@ -1,4 +1,4 @@
-# 👨‍💻 Mirang Bhandari
+# 🚀 Mirang Bhandari
 
 ## 👨‍💻 About Me:
 - 🎓 **Recent** Computer Science and Engineering (CSE) graduate from India.
