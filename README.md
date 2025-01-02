@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me:
 - 🎓 **Recent** Computer Science and Engineering (CSE) graduate from India.
 - 💡 Currently learning about new technologies and working on exciting projects.
-- 🚀 Interested in **DevOps**, **AI/ML**, **Kubernetes**, **AWS**, and **Model Deployment**.
+- 🚀 Working on **DevOps**, **AI/ML**, **Kubernetes**, **AWS**, and **Model Deployment**.
 
 ###
 
