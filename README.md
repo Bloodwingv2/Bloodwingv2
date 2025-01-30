@@ -13,7 +13,7 @@
 
 ###
 
-<img src="https://i.pinimg.com/originals/c0/a1/8d/c0a18d0c0cd16bdd587fc746c8bf47f2.gif" alt="Exciting Animation" align="right" width="350" />
+<img src="https://cdn.theatlantic.com/thumbor/MucfpOos0CrW_3s4_zV7iikMSJo=/0x0:2000x1125/976x549/media/img/mt/2021/06/GamersAndFraudNew/original.gif" alt="Exciting Animation" align="right" width="350" />
 
 ### 🛠️ **Tech Stack**:
 
