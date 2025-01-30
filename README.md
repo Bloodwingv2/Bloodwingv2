@@ -13,7 +13,7 @@
 
 ###
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU0cTJtdG5sYzNjanhrMnR6ZHVtaGE5bDduMXlkZjIyZTVhdDJpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EaEWuES5SDSpcnOlRt/giphy.webp" alt="Exciting Animation" align="right" width="350" />
+<img src="https://i.pinimg.com/originals/c0/a1/8d/c0a18d0c0cd16bdd587fc746c8bf47f2.gif" alt="Exciting Animation" align="right" width="350" />
 
 ### 🛠️ **Tech Stack**:
 
