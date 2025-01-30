@@ -8,8 +8,7 @@
 ###
 
 <div align="center">
-  ![Metrics](https://github.com/Bloodwingv2/Bloodwingv2/blob/main/github-metrics.svg)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bloodwingv2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bloodwingv2&theme=dracula" alt="GitHub Profile Summary Card"/>
 </div>
 
 ###
@@ -38,6 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="CI/CD logo" />
 </div>
 
+### 📊 **GitHub Stats**:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bloodwingv2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="Top languages" />
+</div>
+
+###
+
 ### 🌐 **Connect with Me**:
 
 <div align="left">
@@ -50,8 +57,8 @@
   </a>
 </div>
 
+###
 
-### Watch the snake eat my GitHub contributions! 🐍
+### 🐍 **Watch the snake eat my GitHub contributions!**  
 
 ![Snake animation](https://github.com/Bloodwingv2/Bloodwingv2/blob/output/snake.svg)
-
