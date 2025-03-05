@@ -25,8 +25,7 @@ print(mirang.learning_rate())
 ```
 ---
 
-## 🛠️ Tech Stack  (It would be easier to tell you how many I do not know lol)
-
+## 🛠️ Tech Stack 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white">
