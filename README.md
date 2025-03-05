@@ -32,13 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloodwingv2&layout=compact&theme=dracula" alt="Top Languages">
-</p>
-
----
-
 🐍 **Watch the snake eat my contributions!**  
 <p align="center">
   <img src="https://github.com/Bloodwingv2/Bloodwingv2/blob/output/snake.svg">
