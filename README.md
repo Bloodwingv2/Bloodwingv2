@@ -32,7 +32,7 @@
 
 ---
 
-🐍 **Watch the snake eat my contributions!**  
+ ## 🐍 Wow, look a snake, magik!**  
 <p align="center">
   <img src="https://github.com/Bloodwingv2/Bloodwingv2/blob/output/snake.svg">
 </p>
