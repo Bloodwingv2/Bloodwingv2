@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=80F767&background=73FF8500&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Mirang+Bhandari)](https://git.io/typing-svg)
+# Hello there! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirang_Bhandari-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mirangbhandari/)
