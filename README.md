@@ -1,64 +1,41 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=27&pause=1000&color=80F767&background=73FF8500&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Mirang+Bhandari+%F0%9F%98%81)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=80F767&background=73FF8500&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Mirang+Bhandari)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me:
-- 🎓 **Recent** Computer Science and Engineering (CSE) graduate from India.
-- 💡 Currently learning about new technologies and working on exciting projects.
-- 🚀 Working on **AI/ML**, **DevOps**, **Kubernetes**, **AWS**, and **Model Deployment**.
+![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirang_Bhandari-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mirangbhandari/)
+[![Email](https://img.shields.io/badge/Gmail-bhandariumesh81@gmail.com-D14836?style=flat&logo=gmail)](mailto:bhandariumesh81@gmail.com)
 
-###
+## 🚀 About Me
+- 🎓 **Recent Computer Science Graduate** from India.  
+- 🔍 **Interested in AI/ML, DevOps, and Model Deployment**.  
+- 💻 **Skilled in Python, Kubernetes, Terraform, Docker, and Jenkins**.  
+- 🌱 Currently **exploring Large Language Models (LLMs) and cloud automation**.  
+- 📈 **Built CI/CD pipelines, AI models, and scalable cloud architectures**.
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bloodwingv2&theme=dracula" alt="GitHub Profile Summary Card"/>
-</div>
+---
 
-###
+## 🛠️ Tech Stack
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 
-<img src="https://cdn.theatlantic.com/thumbor/MucfpOos0CrW_3s4_zV7iikMSJo=/0x0:2000x1125/976x549/media/img/mt/2021/06/GamersAndFraudNew/original.gif" alt="Exciting Animation" align="right" width="350" />
+---
 
-### 🛠️ **Tech Stack**:
+## 📊 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bloodwingv2&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloodwingv2&layout=compact&theme=dracula)  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="Groovy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="CI/CD logo" />
-</div>
+---
 
-### 📊 **GitHub Stats**:
+## 📫 Connect with Me  
+📩 **Email:** [bhandariumesh81@gmail.com](mailto:bhandariumesh81@gmail.com)  
+💼 **LinkedIn:** [Mirang Bhandari](https://www.linkedin.com/in/mirangbhandari/)  
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bloodwingv2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="Top languages" />
-</div>
+---
 
-###
-
-### 🌐 **Connect with Me**:
-
-<div align="left">
-  <a href="mailto:bhandariumesh81@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/mirangbhandari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-</div>
-
-###
-
-### 🐍 **Watch the snake eat my GitHub contributions!**  
-
+🐍 **Watch the snake eat my contributions!**  
 ![Snake animation](https://github.com/Bloodwingv2/Bloodwingv2/blob/output/snake.svg)
