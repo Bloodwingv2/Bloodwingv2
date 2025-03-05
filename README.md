@@ -7,11 +7,11 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **Recent Computer Science Graduate** from India.  
-- 🔍 **Interested in AI/ML, DevOps, and Model Deployment**.  
+- 🔍 **Working on AI/ML, DevOps, and Model Deployment**.  
 - 💻 **Skilled in Python, Kubernetes, Terraform, Docker, and Jenkins**.  
 - 🌱 Currently **exploring Large Language Models (LLMs) and cloud automation**.  
-- 📈 **Built CI/CD pipelines, AI models, and scalable cloud architectures**.  
+- 📈 **Built CI/CD pipelines, AI models, and scalable cloud architectures**.
+- 🌱 ** At the rate i am learning, there is not gonna be any tech stack to learn, LOL**
 
 ---
 
