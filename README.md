@@ -39,12 +39,6 @@
 
 ---
 
-## 📫 Connect with Me  
-📩 **Email:** [bhandariumesh81@gmail.com](mailto:bhandariumesh81@gmail.com)  
-💼 **LinkedIn:** [Mirang Bhandari](https://www.linkedin.com/in/mirangbhandari/)  
-
----
-
 🐍 **Watch the snake eat my contributions!**  
 <p align="center">
   <img src="https://github.com/Bloodwingv2/Bloodwingv2/blob/output/snake.svg">
