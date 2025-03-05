@@ -7,12 +7,22 @@
 ---
 
 ## 🚀 About Me  
-- 🔍 **Working on AI/ML, DevOps, and Model Deployment**.  
-- 💻 **Skilled in Python, Kubernetes, Terraform, Docker, and Jenkins**.  
-- 🌱 Currently **exploring Large Language Models (LLMs) and cloud automation**.  
-- 📈 **Built CI/CD pipelines, AI models, and scalable cloud architectures**.
-- 🌱 **At the rate i am learning, there is not gonna be any tech stack to learn, LOL**.
+```python
+class MirangBhandari:
+    def __init__(self):
+        self.name = "Mirang Bhandari"
+        self.role = "Freelance Developer"
+        self.interests = ["AI/ML", "DevOps", "Model Deployment"]
+        self.skills = ["Python", "Kubernetes", "Terraform", "Docker", "Jenkins"]
+        self.current_focus = ["Large Language Models (LLMs)", "Cloud Automation"]
+        self.experience = "Built CI/CD pipelines, AI models, and scalable cloud architectures."
+        
+    def learning_rate(self):
+        return "At the rate I am learning, there’s not gonna be any tech stack left to learn! LOL"
 
+mirang = MirangBhandari()
+print(mirang.learning_rate())
+```
 ---
 
 ## 🛠️ Tech Stack  (It would be easier to tell you how many I do not know lol)
