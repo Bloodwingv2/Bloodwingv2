@@ -18,10 +18,8 @@ class MirangBhandari:
         self.experience = "Built CI/CD pipelines, AI models, and scalable cloud architectures."
         
     def learning_rate(self):
-        return "At the rate I am learning, there’s not gonna be any tech stack left to learn! LOL"
+        return "At the rate I am learning, there’s not gonna be any tech stack left to learn! LOOOOOOL"
 
-mirang = MirangBhandari()
-print(mirang.learning_rate())
 ```
 ---
 
