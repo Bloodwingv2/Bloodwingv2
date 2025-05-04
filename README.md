@@ -11,7 +11,7 @@
 class MirangBhandari:
     def __init__(self):
         self.name = "Mirang Bhandari"
-        self.role = "Freelance Developer"
+        self.role = "Software Developer"
         self.interests = ["SDE", "AI/ML", "DevOps", "Model Deployment"]
         self.skills = ["Python", "Kubernetes", "Terraform", "Docker", "Jenkins"]
         self.current_focus = ["Large Language Models (LLMs)", "Cloud Automation"]
