@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirang_Bhandari-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mirangbhandari/)
-[![Email](https://img.shields.io/badge/Gmail-bhandariumesh81@gmail.com-D14836?style=flat&logo=gmail)](mailto:bhandarimirang03@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-bhandarimirang03@gmail.com-D14836?style=flat&logo=gmail)](mailto:bhandarimirang03@gmail.com)
 
 ---
 
