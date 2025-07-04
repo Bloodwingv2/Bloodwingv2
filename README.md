@@ -6,18 +6,17 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 ```python
 class MirangBhandari:
     def __init__(self):
         self.name = "Mirang Bhandari"
         self.role = "Software Developer"
-        self.interests = ["SDE", "AI/ML", "DevOps", "Model Deployment"]
-        self.skills = ["Python", "Kubernetes", "Terraform", "Docker", "Jenkins"]
-        self.current_focus = ["Large Language Models (LLMs)", "Cloud Automation"]
-        self.experience = "Built CI/CD pipelines, AI models, and scalable cloud architectures."
+        self.interests = ["SDE", "Agentic AI", "AI/ML", "DevOps", "Model Deployment"]
+        self.current_focus = ["Large Language Models (LLMs)", "Agentic AI", "Full-Stack Softwares"]
+        self.experience = "Built CI/CD pipelines, Full Stack AI Apps, MLOPS Pipelines and more..."
         
-    def learning_rate(self):
+    def fun_fact(self):
         return "At the rate I am learning, there’s not gonna be any tech stack left to learn! LOOOOOOL"
 
 ```
