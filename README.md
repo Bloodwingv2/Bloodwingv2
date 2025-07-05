@@ -3,10 +3,14 @@
 **`Software Engineer (LLM's, Agents, Full-Stack)`**
 
 Full time experimenter, part time software creator 
+&nbsp;
 
 <img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" height="450">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)
+
+### About Me 
+<p align ="left"> I am a Software developer who has created Agentic Workflows, CI/CD Pipelines, Interactive and seemless UI's and Backend's, end-end softwares using mutiple frameworks like Electron to create desktop apps. Currently on a mission to make fully offline apps accessible to anyone</p>
 
 <h2>
   Connect with Me&nbsp;
