@@ -2,27 +2,16 @@
 
 **`Software Engineer (LLM's, Agents, Full-Stack)`**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)  
+Full time experimenter, part time software creator 
+
+<img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" height="450">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)
+
+## Connect with Me!   <img src ="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="25" height="2">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirang_Bhandari-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mirangbhandari/)
 [![Email](https://img.shields.io/badge/Gmail-bhandarimirang03@gmail.com-D14836?style=flat&logo=gmail)](mailto:bhandarimirang03@gmail.com)
 
----
-
-## About Me  
-```python
-class MirangBhandari:
-    def __init__(self):
-        self.name = "Mirang Bhandari"
-        self.role = "Software Developer"
-        self.interests = ["SDE", "Agentic AI", "AI/ML", "DevOps", "Model Deployment"]
-        self.current_focus = ["Large Language Models (LLMs)", "Agentic AI", "Full-Stack Softwares"]
-        self.experience = "Built CI/CD pipelines, Full Stack AI Apps, MLOPS Pipelines and more..."
-        
-    def fun_fact(self):
-        return "At the rate I am learning, there’s not gonna be any tech stack left to learn! LOOOOOOL"
-
-```
----
 
 ## Tech Stack
 
