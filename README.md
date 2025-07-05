@@ -10,15 +10,15 @@ Full time experimenter, part time software creator
 
 ## Connect with Me   <img src ="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="25" height="2">
 <a href="https://www.linkedin.com/in/mirangbhandari/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="25" height="25" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50" />
 </a>
 
 <a href="https://www.linkedin.com/in/mirangbhandari/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="25" height="25" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" height="50" />
 </a>
 
 <a href="mailto:bhandarimirang03@gmail.com" target="_blank">
-  <img src="https://drive.google.com/file/d/1Ks2fg2jmqL8wK3BTz_CWH-OULE9329QY/view?usp=sharing" width="25" height="25" />
+  <img src="https://github.com/Bloodwingv2/GithubAssets/blob/main/Animation%20-%201751726063109.gif" width="50" height="50" />
 </a>
 
 
