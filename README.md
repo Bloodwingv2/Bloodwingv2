@@ -8,7 +8,12 @@ Full time experimenter, part time software creator
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)
 
-## Connect with Me   <img src ="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="25" height="2">
+<h2>
+  Connect with Me&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="22" />
+</h2>
+
+
 <a href="https://www.linkedin.com/in/mirangbhandari/" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="50" />
 </a>
