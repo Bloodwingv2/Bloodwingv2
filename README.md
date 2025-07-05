@@ -8,9 +8,18 @@ Full time experimenter, part time software creator
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)
 
-## Connect with Me!   <img src ="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="25" height="2">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirang_Bhandari-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mirangbhandari/)
-[![Email](https://img.shields.io/badge/Gmail-bhandarimirang03@gmail.com-D14836?style=flat&logo=gmail)](mailto:bhandarimirang03@gmail.com)
+## Connect with Me   <img src ="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="25" height="2">
+<a href="https://www.linkedin.com/in/mirangbhandari/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="25" height="25" />
+</a>
+
+<a href="https://www.linkedin.com/in/mirangbhandari/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="25" height="25" />
+</a>
+
+<a href="mailto:bhandarimirang03@gmail.com" target="_blank">
+  <img src="https://drive.google.com/file/d/1Ks2fg2jmqL8wK3BTz_CWH-OULE9329QY/view?usp=sharing" width="25" height="25" />
+</a>
 
 
 ## Tech Stack
