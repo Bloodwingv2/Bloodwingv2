@@ -1,4 +1,6 @@
-# Hello there! 👋
+# 🐦‍🔥 Mirang Bhandari
+
+**`Software Engineer (LLM's, Agents, Full-Stack)`**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirang_Bhandari-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mirangbhandari/)
