@@ -17,17 +17,16 @@ Full time experimenter, part time software creator
   <img src="https://raw.githubusercontent.com/Bloodwingv2/GithubAssets/main/discord.gif" width="22" />
 </h2>
 
-
 <a href="https://www.linkedin.com/in/mirangbhandari/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Bloodwingv2/GithubAssets/main/linkedin.gif" width="60" height="50" />
+  <img src="https://raw.githubusercontent.com/Bloodwingv2/GithubAssets/main/linkedin.gif" height="50" style="margin-right: 10px;" />
 </a>
 
 <a href="https://x.com/Angrycoder97" target="_blank">
-  <img src="https://raw.githubusercontent.com/Bloodwingv2/GithubAssets/main/twitter.gif" width="60" height="50" />
+  <img src="https://raw.githubusercontent.com/Bloodwingv2/GithubAssets/main/twitter.gif" height="50" style="margin-right: 10px;" />
 </a>
 
 <a href="mailto:bhandarimirang03@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/Bloodwingv2/GithubAssets/main/Animation%20-%201751726063109%20(1).gif" width="60" height="50" />
+  <img src="https://raw.githubusercontent.com/Bloodwingv2/GithubAssets/main/Animation%20-%201751726063109%20(1).gif" height="50" />
 </a>
 
 
