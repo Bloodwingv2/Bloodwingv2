@@ -10,7 +10,7 @@ Full time experimenter, part time software creator
 ![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)
 
 ### About Me 
-<p align ="left"> I am a Software developer who has created Agentic Workflows, CI/CD Pipelines, Interactive and seemless UI's and Backend's, end-end softwares using mutiple frameworks like Electron to create desktop apps. Currently on a mission to make fully offline apps accessible to anyone</p>
+<p align ="left"> Gen AI developer who is experimenting with newly created Agentic Workflows, CI/CD Pipelines, Backend's, end-end softwares using mutiple frameworks like Electron to create desktop apps. Currently on a mission to make fully offline apps accessible to anyone</p>
 
 <h2>
   Connect with Me&nbsp;
