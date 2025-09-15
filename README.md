@@ -75,7 +75,7 @@ Full time experimenter, part time software creator
 > 🚀 **Fully Offline AI Applications** - Making advanced AI accessible without internet dependency  
 > 🤖 **Next-Gen Agentic Workflows** - Pushing the boundaries of autonomous AI systems  
 > 🔧 **End-to-End ML Pipelines** - From data ingestion to model deployment at scale
-> 🔧 **Full-Stack Apps with AI** - From Backend to the front-end making sure each process looks and feels seamless
+> 🖥️ **Full-Stack Apps with AI** - From Backend to the front-end making sure each process looks and feels seamless
 
 </div>
 
