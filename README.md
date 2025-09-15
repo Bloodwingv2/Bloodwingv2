@@ -1,5 +1,5 @@
 # 🐦‍🔥 Mirang Bhandari
-**`Software Engineer (LLM's, Agents, Full-Stack)`**
+**`Software Engineer (GenAI, LLM's, Agents, Full-Stack)`**
 Full time experimenter, part time software creator 
 &nbsp;
 
