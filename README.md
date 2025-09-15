@@ -2,6 +2,7 @@
 **`Software Engineer (LLM's, Agents, Full-Stack)`**
 Full time experimenter, part time software creator 
 &nbsp;
+
 <img src="https://raw.githubusercontent.com/Bloodwingv2/GithubAssets/main/Laptop%20read.gif" width="500">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)
