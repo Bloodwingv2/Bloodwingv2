@@ -3,7 +3,7 @@
 Full time experimenter, part time software creator 
 &nbsp;
 
-<img src="https://github.com/Bloodwingv2/GithubAssets/blob/main/Dog_type.gif" width="350">
+<img src="https://github.com/Bloodwingv2/GithubAssets/blob/main/cat-computer.gif" width="450">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)
 
