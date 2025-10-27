@@ -1,11 +1,13 @@
 # 🐦‍🔥 Mirang Bhandari  
-**Software Engineer | GenAI · LLMs · Agents · Full-Stack**
-
 <img align="right" src="https://github.com/Bloodwingv2/GithubAssets/blob/main/cat-computer.gif" width="120" />
 
-Full-time experimenter, part-time software creator. Building **AI-powered, fully offline applications** and experimenting with **agentic workflows**, **CI/CD**, and **full-stack integrations**.
+**Software Engineer | GenAI · LLMs · Agents · Full-Stack**
 
-> 🦀 *Currently learning Rust by rebuilding Git clone from scratch to understand system design and improve performance.*
+Software engineer who treats production like a playground ☠️. Building **AI-powered, fully offline applications** and experimenting with **agentic workflows**, **CI/CD**, and **full-stack integrations**.
+
+**Currently:** 🦀 Recreating Git in Rust for performance · Building offline AI desktop apps using electron · Designing/understanding modular agentic systems
+
+> 🦀 *Learning Rust by rebuilding Git clone from scratch to understand system architecture and improve performance.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)
 
@@ -21,12 +23,6 @@ Full-time experimenter, part-time software creator. Building **AI-powered, fully
 
 ---
 
-### ⚙️ Current Projects
-🦀 **Recreating Git in Rust** to increase git clone performance 
-🧩 Offline AI desktop apps with full privacy  
-🤖 Modular agentic systems for reducing grunt work
-
----
 ### 🌐 Connect
 <a href="https://www.linkedin.com/in/mirangbhandari/"><img src="https://raw.githubusercontent.com/Bloodwingv2/GithubAssets/main/linkedin.gif" height="40" /></a>
 <a href="https://x.com/Angrycoder97"><img src="https://raw.githubusercontent.com/Bloodwingv2/GithubAssets/main/twitter.gif" height="40" /></a>
