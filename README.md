@@ -23,8 +23,8 @@ I build **AI-powered, fully offline applications** and experiment with **agentic
 |:--|:--|
 | **AI & Agents** | LangChain · LangGraph · LangSmith · n8n |
 | **ML / Data** | Python · NumPy · Pandas · Scikit-Learn · Matplotlib |
-| **Full-Stack** | React · JavaScript · FastAPI · PostgreSQL |
-| **DevOps / MLOps** | Docker · Terraform · Jenkins · MLflow · GitHub Actions · JFrog |
+| **Full-Stack** | React · JavaScript · TailwindCSS · FastAPI · PostgreSQL/SQL |
+| **DevOps / MLOps** | Docker · Jenkins · MLflow |
 
 </div>
 
