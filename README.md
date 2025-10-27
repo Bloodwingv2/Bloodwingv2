@@ -5,9 +5,11 @@
 
 Software engineer who treats production like a playground ☠️. Building **AI-powered, fully offline applications** and experimenting with **agentic workflows**, **CI/CD**, and **full-stack integrations**.
 
-**Currently:** 🦀 Recreating Git in Rust for performance · Building offline AI desktop apps using electron · Designing/understanding modular agentic systems
+## Currently working on..
 
-> 🦀 *Learning Rust by rebuilding Git clone from scratch to understand system architecture and improve performance.*
+> 🦀 **Learning Rust** by rebuilding Git clone from scratch to understand system architecture and improve performance  
+> 🧩 **Building offline AI desktop apps** using Electron  
+> 🤖 **Designing modular agentic systems** for automation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bloodwingv2&label=Profile+Views&color=blue&style=flat)
 
