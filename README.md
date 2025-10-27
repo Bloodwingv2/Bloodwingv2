@@ -1,5 +1,6 @@
 # 🐦‍🔥 Mirang Bhandari  
 **`Software Engineer | GenAI · LLMs · Agents · Full-Stack`**  
+<br>
 Full-time experimenter, part-time software creator.  
 
 <img src="https://github.com/Bloodwingv2/GithubAssets/blob/main/cat-computer.gif" width="350" />
@@ -12,11 +13,11 @@ Full-time experimenter, part-time software creator.
 I build **AI-powered, fully offline applications** and experiment with **agentic workflows**, **CI/CD**, and **full-stack integrations** across frameworks like Electron and FastAPI.  
 Currently focused on making **self-contained AI systems** that run entirely on-device.  
 
-> 💡 *Currently learning Rust by rebuilding tools like Git from scratch to understand real-world system design.*
+> 🦀 *Currently learning Rust by rebuilding tools like Git from scratch to understand real-world system design.*
 
 ---
 
-### 🧠 Tech Stack  
+### Tech Stack  
 <div align="center">
 
 | Domain | Tools & Frameworks |
@@ -38,7 +39,7 @@ Currently focused on making **self-contained AI systems** that run entirely on-d
 
 ---
 
-### 🌐 Connect
+### 🌐 Connect with me!
 <a href="https://www.linkedin.com/in/mirangbhandari/" target="_blank">
   <img src="https://raw.githubusercontent.com/Bloodwingv2/GithubAssets/main/linkedin.gif" height="45" />
 </a>
