@@ -11,9 +11,8 @@ Full-time experimenter, part-time software creator.
 
 ### 🚀 About Me  
 I build **AI-powered, fully offline applications** and experiment with **agentic workflows**, **CI/CD**, and **full-stack integrations** across frameworks like Electron and FastAPI.  
-Currently focused on making **self-contained AI systems** that run entirely on-device.  
 
-> 🦀 *Currently learning Rust by rebuilding tools like Git from scratch to understand real-world system design.*
+> 🦀 *Currently learning Rust by rebuilding tools like Git from scratch to understand real-world system design and perhaps increase git clone performance.*
 
 ---
 
